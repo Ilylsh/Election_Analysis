@@ -5,7 +5,7 @@
 <br>In this project, we are using Python to work through all the vote data from an election, aiming to summarize the vote count, vote percentage by each county, as well as each candidate accordingly, so that we can provide a clear overview of the elecion results, including winning candidate and largest vote county.
 
 ## Election-Audit Results
-Please refer to [election_results.txt]https://github.com/Ilylsh/Election_Analysis/blob/4af7ccf1cfef5e0f4aa970947f5506df2d547609/analysis/election_results.txt for the breakdown details.
+Please refer to [election_results](https://github.com/Ilylsh/Election_Analysis/blob/4af7ccf1cfef5e0f4aa970947f5506df2d547609/analysis/election_results.txt) for the breakdown details.
 - **How many votes were cast in this congressional election?**
 <br> Total 369,711 votes were cast in the election
 
